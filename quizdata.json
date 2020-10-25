@@ -1,0 +1,55 @@
+[{
+        "question": "what does NFT stand for?",
+        "options": ["non-fungible token", "Not for Trade", "No Further Text", "Nursing Facilities Transition"],
+        "answer": 0
+    },
+    {
+        "question": "NFTs are interchangeable with each other.",
+        "options": ["true", "false"],
+        "answer": 1,
+        "description": "NFTs are not interchangeable with each other and introduce scarcity to the digital world."
+    },
+    {
+        "question": "What can a NFT represent?",
+        "options": ["Crypto collectibles", "In-game items", "Digital artwork", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "All fiat currencies are fungible.",
+        "options": ["true", "false"],
+        "answer": 0,
+        "description": "A one-dollar bill is interchangeable with any other genuine one-dollar bill."
+    },
+    {
+        "question": "Most prominent frameworks created to facilitate the issuance of NFTs is:",
+        "options": ["ERC827", "ERC20", "ERC721", "ERC5511"],
+        "answer": 2
+    },
+    {
+        "question": "Guess how much Dragon(from CryptoKitties) worth ETH?",
+        "options": ["1000ETH", "1ETH", "600ETH", "0ETH"],
+        "answer": 2,
+        "description": "It’s a staggering amount of money — enough to buy a house in many parts of the world — and 2,833 times more than the average of $60 that was being paid for CryptoKitties at the time."
+    },
+    {
+        "question": "Which of the following is the NFT use cases",
+        "options": ["Art", "Gaming", "Collectibles", "All of the Above"],
+        "answer": 3
+    },
+    {
+        "question": "ERC-1155 is an advanced and better version of ERC-721.",
+        "options": ["true", "false"],
+        "answer": 0,
+        "description": "with the new ERC-1155 standard, you can now use infinite numbers of Non Fungible as well as Fungible items in a single deployed smart contract"
+    },
+    {
+        "question": "We have to create a fungible and non-fungible token, which interface should we use?",
+        "options": ["ERC721", "ERC20", "ERC1155", "all of the Above"],
+        "answer": 2
+    },
+    {
+        "question": "NFTs have the potential to be one of the key components of a new blockchain-powered digital economy.",
+        "options": ["true", "false"],
+        "answer": 0
+    }
+]
