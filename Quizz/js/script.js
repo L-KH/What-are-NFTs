@@ -24,7 +24,7 @@ let interval;
 let myApp = [];
 
 window.onload = () => {
-    fetch("https://raw.githubusercontent.com/L-KH/What-are-NFTs/main/quizdata.json")
+    fetch("https://raw.githubusercontent.com/L-KH/What-are-NFTs/main/Quizz/quizdata.json")
         .then(function(resp) {
             return resp.json();
         })
